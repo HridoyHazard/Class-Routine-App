@@ -7,7 +7,7 @@
   <p align="center">
     Never miss a single class schedule! instantly Get Your Class Routine.
     <br />
-    <a href="">Download App</a>
+    <a href="https://github.com/HridoyHazard/Class-Routine-App/raw/main/app/CSE47C.apk">Download App</a>
     ·
     <a href="https://github.com/HridoyHazard/Class-Routine-App/issues">Report Bug</a>
     ·
