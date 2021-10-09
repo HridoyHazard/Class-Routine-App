@@ -9,9 +9,9 @@
     <br />
     <a href="">Download App</a>
     ·
-    <a href="https://github.com/ikramhasan/GG-Free-Games-and-Giveaways/issues">Report Bug</a>
+    <a href="https://github.com/HridoyHazard/Class-Routine-App/issues">Report Bug</a>
     ·
-    <a href="https://github.com/ikramhasan/GG-Free-Games-and-Giveaways/issues">Request Feature</a>
+    <a href="https://github.com/HridoyHazard/Class-Routine-App/issues">Request Feature</a>
   </p>
 </p>
 
