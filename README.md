@@ -2,7 +2,7 @@
     <img src="img/c.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Simple Routine App For CSE47© </h3>
+  <h3 align="center">Simple Class Routine App For CSE47© </h3>
 
   <p align="center">
     Never miss a single class schedule! instantly Get Your Class Routine.
