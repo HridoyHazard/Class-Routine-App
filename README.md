@@ -18,6 +18,9 @@
 ## *About The Project*
 This is a simple routine app. I created this app for my friends and batchmates who have been facing problem with class routine. It’s very irritating to look for class routine everyday and find your classes schedules among a lot of batch.Since we use our smartphone daily and it’s more easy if you have your class routine in front of you and you can see routine by just one click.
 
+## *Dedicated To*
+This app is Dedicated to my friends of CSE47© Batch, who always support me and help me to move ahead in life.
+
 ## *Features*
 
 * Notice System : Tell you regularly if you have any class or not.
@@ -68,6 +71,3 @@ This is a simple routine app. I created this app for my friends and batchmates w
     <td><img src="img/1 (9).jpg" width=350 height=480></td>
   </tr>
  </table>
-
-## *Dedicated To*
-This app is Dedicated to my friends of CSE47© Batch, who always support me and help me to move ahead in life.
